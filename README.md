@@ -1,2 +1,3 @@
 # McDiggle
-Official McDiggle Website
+
+We jigglin now
