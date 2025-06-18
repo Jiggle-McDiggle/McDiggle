@@ -8,6 +8,8 @@ body {
 a {
   color: inherit;
   display: inline-block;
+  margin-left: 3px;
+  margin-right: 3px;
   padding: 10px 10px;
   text-decoration: none;
   background-color: #271f2a;
@@ -17,7 +19,7 @@ a {
 
 /* Hover-Effekt */
 a:hover {
-  background-color: #381643;
+  background-color: #461855;
 }
 
 a:visited {
