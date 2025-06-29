@@ -6,7 +6,7 @@ body {
 
 /* Grundstil für die Boxen */
 a {
-  color: inherit;
+  color: #ffffff;
   display: inline-block;
   margin-left: 3px;
   margin-right: 3px;
@@ -21,6 +21,7 @@ a {
 
 /* Hover-Effekt */
 a:hover {
+  color: #c8ffc8;
   background-color: #461855;
 }
 
